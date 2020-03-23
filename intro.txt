@@ -1,6 +1,11 @@
 hi every one this is the intr.txt file
 C
-C
+Cadded new line!
+
+A
+A
+A
+
 C
 C
 
