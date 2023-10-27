@@ -32,3 +32,4 @@ sudo amazon-linux-extras enable php7.4
 yum install php-cli php-pdo php-fpm php-json php-mysqln
 php --version
 service httpd restart
+####################################################
