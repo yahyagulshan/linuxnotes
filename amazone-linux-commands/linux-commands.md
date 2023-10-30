@@ -6,9 +6,9 @@ there are different shell in linux. which is used today. c shell , korn shell, z
 shell responsibilities are communicate with users and operating systems.
 for check which kind of shell we are using
 
-* echo $SHELL
+__echo $SHELL__
 
 For change the  shell command
 
-* chsh
+__chsh__
 
