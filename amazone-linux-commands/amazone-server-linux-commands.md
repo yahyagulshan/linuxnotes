@@ -1,5 +1,5 @@
 ### install mysql 
-- wget https://repo.mysql.com/yum/mysql-5.7-community/el/6/x86_64/mysql-community-devel-5.7.38-1.el6.x86_64.rpm
+- *wget https://repo.mysql.com/yum/mysql-5.7-community/el/6/x86_64/mysql-community-devel-5.7.38-1.el6.x86_64.rpm*
 - rpm --import https://repo.mysql.com/RPM-GPG-KEY-mysql-2022
 - sudo yum install mysql-community-server
 - sudo systemctl start mysqld.service
